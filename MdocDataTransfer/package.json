@@ -1,0 +1,11 @@
+{
+  "name": "mdoc-data-transfer",
+  "version": "0.0.1",
+  "description": "Mdoc data transfer",
+  "react-native": "index",
+  "source": "index",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
